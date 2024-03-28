@@ -1,0 +1,17 @@
+.env
+*.csv
+.idea/
+notebooks/
+project_notes
+data/
+aws/
+*.zip
+.ipynb_checkpoints/
+deploy_test.py
+model_handler_localtest.py
+inf_container_push.sh
+discarded_code.py
+project_notes.txt
+__pycache__/
+env/
+*.code-workspace
